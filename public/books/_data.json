@@ -1,6 +1,7 @@
 {
   "books": [
-    "test"
+    "test",
+    "testing"
   ],
   "index": {
     "title": "Books",
