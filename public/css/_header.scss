@@ -1,0 +1,75 @@
+@import 'colors';
+
+header {
+  color: $small-headers-color;
+  font-size: 0.7em;
+  font-family: 'PT Sans', sans-serif;
+
+  .previous-next-item-navigation-links {
+    display: block;
+    font-size: 16px;
+    color: $entry-navigation-color;
+    background-color: $entry-background-color;
+    padding: 30px 0;
+
+    .nav-item {
+      margin-right: 15px;
+      font-weight: bold;
+
+      .fa-arrow-left {
+        margin-right: 3px;
+      }
+
+      .fa-arrow-right {
+        margin-left: 3px;
+      }
+    }
+
+    a {
+      color: #222;
+      text-decoration: none;
+
+      &:hover {
+        color: #ff6668;
+      }
+    }
+  }
+
+  .main-navigation-links {
+    font-size: 18px;
+    background-color: #111;
+    color: #fefefe;
+    text-transform: uppercase;
+    padding: 20px 0;
+
+    span {
+      margin-right: 20px;
+      font-weight: 600;
+
+      &.brand-name {
+        font-size: 26px;
+        font-weight: 600;
+        margin-right: 25px;
+
+        a:hover {
+          color: inherit;
+        }
+      }
+
+      a {
+        color: #fefefe;
+
+        &:focus, &:active, &:visited {
+          color: #fefefe;
+          text-decoration: none;
+        }
+
+        &:hover {
+          color: #ff6668;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+

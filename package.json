@@ -1,0 +1,27 @@
+{
+  "name": "success.exchange",
+  "version": "1.0.0",
+  "description": "Success.Exchange",
+  "main": "create_blog_post.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedosejev/success.exchange.git"
+  },
+  "author": "Artemij Fedosejev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedosejev/success.exchange/issues"
+  },
+  "homepage": "https://github.com/fedosejev/success.exchange",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "harp": "^0.17.0",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.10.6",
+    "slug": "^0.9.1",
+    "touch": "^1.0.0"
+  }
+}

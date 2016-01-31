@@ -1,0 +1,30 @@
+.navbar-default {
+  border: 0;
+  border-bottom: 1px solid #eee;
+  background-color: #fff;
+
+  .navbar-nav > .active > a {
+    color: #000;
+    background-color: inherit;
+
+    &:hover {
+      color: red;
+      background-color: inherit;
+    }
+  }
+
+  .navbar-nav li {
+    &> a {
+      background-color: inherit;
+
+      &:hover {
+        color: red;
+        background-color: inherit;
+      }
+    }
+
+    &.dropdown.open a {
+      background-color: inherit;
+    }
+  }
+}

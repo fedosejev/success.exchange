@@ -1,0 +1,37 @@
+@import 'colors';
+
+.entry-page {
+  background-color: $entry-background-color;
+
+  .entry-date {
+    display: block;
+    color: $entry-date-color;
+  }
+
+  .entry-content {
+    padding-bottom: 30px;
+    line-height: 1.5em;
+
+    figure {
+      margin: 20px 0;
+
+      img, iframe {
+        width: 100%;
+      }
+    }
+
+    code {
+      color: $highlight-text-color;
+      font-family: inherit;
+      font-size: inherit;
+      background-color: $highlight-background-color;
+      padding-left: 3px;
+      padding-right: 3px;
+    }
+  }
+
+  h1 {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+}

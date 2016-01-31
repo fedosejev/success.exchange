@@ -1,0 +1,9 @@
+{
+  "index": {
+    "title": "Quotes, tips, lessons from articles, talks, videos and books about success.",
+    "layout": "_landing/_layout"
+  },
+  "sitemap": {
+    "layout": false
+  }
+}

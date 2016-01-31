@@ -1,0 +1,47 @@
+@import 'colors';
+
+footer {
+  font-size: 0.7em;
+  font-family: 'PT Sans', sans-serif;
+  background-color: $background-color;
+  color: $footer-text-color;
+  text-transform: uppercase;
+  padding: 40px 0;
+
+  a {
+    font-weight: bold;
+    color: $footer-text-color;
+    text-decoration: none;
+    margin-right: 20px;
+
+    &:focus, &:active, &:visited {
+      color: $footer-link-color;
+      text-decoration: none;
+    }
+
+    &:hover {
+      color: $footer-link-hover-color;
+      text-decoration: none;
+    }
+  }
+
+  .content-navigation {
+    .brand-name {
+      font-size: 22px;
+      font-weight: 600;
+      margin-right: 10px;
+
+      a:hover {
+        color: inherit;
+      }
+    }
+  }
+
+  .social-media-navigation {
+    margin-top: 20px;
+
+    .fa {
+      font-size: 22px;
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "books": [
+    "test"
+  ],
+  "index": {
+    "title": "Books",
+    "layout": "_books/_layout"
+  }
+}
