@@ -10,7 +10,7 @@
     background-color: inherit;
 
     &:hover {
-      color: #fffaf4;
+      color: $entry-background-color;
       background-color: inherit;
     }
   }
@@ -20,7 +20,7 @@
       background-color: inherit;
 
       &:hover {
-        color: #fffaf4;
+        color: $entry-background-color;
         background-color: inherit;
       }
     }
