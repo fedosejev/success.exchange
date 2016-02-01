@@ -17,6 +17,11 @@
     while (counter < NUMBER_OF_ENTRIES) {
 
       entrySlug = entries[entries.length - (counter + 1)];
+
+      if (! entrySlug) {
+        break;
+      }
+
       entry = public[ENTRIES_NAME][entrySlug]._data.index;
   %>
 
