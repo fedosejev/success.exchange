@@ -4,6 +4,7 @@
     "description": "Quotes and summaries form articles, talks, videos and books about success.",
     "service": {
       "analytics": "UA-1519369-31"
-    }
+    },
+    "domain": "http://success.exchange/"
   }
 }

@@ -6,10 +6,12 @@
   .entry-date {
     display: block;
     color: $entry-date-color;
+    margin-left: 23px;
   }
 
   .entry-content {
     padding-bottom: 30px;
+    margin-left: 23px;
     line-height: 1.5em;
 
     figure {
@@ -28,6 +30,15 @@
       padding-left: 3px;
       padding-right: 3px;
     }
+
+    p:last-of-type {
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+  }
+
+  .entry-comment {
+    padding-bottom: 30px;
   }
 
   h1 {
