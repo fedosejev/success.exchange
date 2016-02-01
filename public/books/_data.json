@@ -1,5 +1,7 @@
 {
-  "books": [],
+  "books": [
+    "do-what-you-love"
+  ],
   "index": {
     "title": "Books",
     "layout": "_books/_layout"
