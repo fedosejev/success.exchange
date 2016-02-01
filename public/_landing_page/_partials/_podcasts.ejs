@@ -1,0 +1,44 @@
+<section class="content-section">
+  <h3 class="content-header">Podcasts</h3>
+  <ul>
+
+  <%
+
+    var ENTRIES_NAME = 'podcasts';
+
+    var entries = public[ENTRIES_NAME]._data[ENTRIES_NAME];
+    var NUMBER_OF_ENTRIES = 3;
+    var counter = 0;
+
+    var entrySlug;
+    var entries;
+    var entry;
+
+    while (counter < NUMBER_OF_ENTRIES) {
+
+      entrySlug = entries[entries.length - (counter + 1)];
+
+      if (! entrySlug) {
+        break;
+      }
+
+      entry = public[ENTRIES_NAME][entrySlug]._data.index;
+  %>
+
+    <li>
+      <a href="/<%- ENTRIES_NAME %>/<%- entrySlug %>">
+        <%- entry.title %>
+      </a>
+    </li>
+
+  <%
+      counter = counter + 1;
+
+      if (counter === entries.length) {
+        counter = NUMBER_OF_ENTRIES;
+      }
+    }
+  %>
+
+  </ul>
+</section>

@@ -1,7 +1,7 @@
 {
-  "books": [],
+  "podcasts": [],
   "index": {
-    "title": "Books",
+    "title": "Podcasts",
     "layout": "_entries/_layout"
   }
 }

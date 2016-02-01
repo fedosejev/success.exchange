@@ -8,11 +8,11 @@ var title;
 var titleSlug;
 var directoryPath;
 
-var ENTRIES_NAME = 'books';
-var ENTRY_NAME = 'book';
+var ENTRIES_NAME = 'podcasts';
+var ENTRY_NAME = 'podcast';
 
 program
-  .option('-t, --title [name]', 'Book title')
+  .option('-t, --title [name]', 'Podcast title')
   .parse(process.argv);
 
 if (program.title) {
