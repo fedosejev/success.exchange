@@ -65,7 +65,7 @@ header {
         }
 
         &:hover {
-          color: #ff6668;
+          color: $entry-background-color;
           text-decoration: none;
         }
       }
