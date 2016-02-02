@@ -1,0 +1,26 @@
+<article class="entry-list-page">
+  <div class="container">
+    <ul class="entry-list">
+    <%
+
+      var ENTRIES_NAME = 'events';
+
+      public[ENTRIES_NAME]._data[ENTRIES_NAME].reverse().forEach(function (entrySlug) {
+
+    %>
+      <li>
+        <small>
+          <%= public[ENTRIES_NAME][entrySlug]._data.index.dateString %>
+        </small>
+        <a href="/<%= ENTRIES_NAME %>/<%= entrySlug %>">
+          <%= public[ENTRIES_NAME][entrySlug]._data.index.title %>
+        </a>
+      </li>
+    <%
+
+      });
+
+    %>
+    </ul>
+  </div>
+</article>
