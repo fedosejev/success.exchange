@@ -1,0 +1,33 @@
+<%
+
+var ENTRIES_NAME = 'articles';
+
+var position;
+var prevLink;
+var nextLink;
+var entrySlugs = public[ENTRIES_NAME]._data[ENTRIES_NAME];
+var currentEntrySlug = current.path[current.path.length - 2];
+
+if (entrySlugs[entrySlugs.length - 1] !== currentEntrySlug) {
+  position = entrySlugs.indexOf(currentEntrySlug);
+  prevLink = '<a href="/' + ENTRIES_NAME + '/' + entrySlugs[position + 1] + '"><span class="fa fa-arrow-left"></span> Previous</a>';
+} else {
+  prevLink = '<span class="fa fa-arrow-left"></span> Previous';
+}
+
+if (entrySlugs[0] !== currentEntrySlug) {
+  position = entrySlugs.indexOf(currentEntrySlug);
+  nextLink = '<a href="/' + ENTRIES_NAME + '/' + entrySlugs[position - 1] + '">Next <span class="fa fa-arrow-right"></a>';
+} else {
+  nextLink = 'Next <span class="fa fa-arrow-right"></a>';
+}
+
+%>
+
+<div class="previous-next-item-navigation-links">
+  <div class="container">
+    <span class="nav-item"><%- prevLink %></span>
+    <span class="nav-item"><%- nextLink %></span>
+  </div>
+</div>
+
