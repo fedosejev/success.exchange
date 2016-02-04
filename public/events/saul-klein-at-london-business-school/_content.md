@@ -11,7 +11,7 @@ Hard.
 Here is what I've learnt from today's event at <a href="http://tellseries.com/ai1ec_event/saul-klein-index-ventures-seedcamp-lovefilm" target="_blank">London Business School</a> where Saul Klein shared his life story:
 
 + `Investors pick surfers not waves.`
-+ You've got to have a strong narrative. `Be a great storyteller`. Silicon Valley is better at it than the UK. UK startups can have more substance, but US startups will win because they tell better story and secure more funding.
++ You've got to have a strong narrative. `Become a great storyteller`. Silicon Valley is better at it than the UK. UK startups can have more substance, but US startups will win because they tell better story and secure more funding.
 + Silicon Valley is decades ahead of Europe.
 + `If you need a job you can start a company`.
 + It's almost impossible to time the market.
