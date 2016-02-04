@@ -57,4 +57,4 @@ If you haven't been to one of the <a href="http://tellseries.com/" target="_blan
 
 One fact that caught my attention: more than half of the audience attended such event for the first time. And more than half of the audience were London Business School students.
 
-So glad that these events are open for general public.
+So glad that these events are open to general public.
