@@ -22,9 +22,19 @@ a:hover {
   color: #9f2623;
 }
 
+code {
+  color: $highlight-text-color;
+  font-family: inherit;
+  font-size: inherit;
+  background-color: $highlight-background-color;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
 @import 'header';
 @import 'landing';
 @import 'entry-page';
 @import 'entry-list-page';
 @import 'footer';
 @import 'mailchimp';
+@import 'introduction';

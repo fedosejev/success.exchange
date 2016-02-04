@@ -1,0 +1,57 @@
+.introduction {
+  background-color: #fcfbfa;
+  color: #333;
+  padding: 40px 0;
+  border-bottom: 1px solid #ddd;
+
+  h2 {
+    margin: 0 0 20px 0;
+    line-height: 30px;
+    font-size: 26px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+  }
+
+  .content {
+    p {
+      margin: 20px 0;
+
+      &:first-of-type {
+        margin-top: 0;
+      }
+
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  img {
+    width: 100%;
+    max-width: 250px;
+    //border-radius: 100px;
+    //float: left;
+    margin-right: 20px;
+  }
+
+  code {
+    font-style: italic;
+    font-size: 30px;
+  }
+
+  .mission {
+    display: inline;
+    color: $highlight-text-color;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: italic;
+    //background-color: $highlight-background-color;
+    padding-left: 3px;
+    padding-right: 3px;
+  }
+
+  .author {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+  }
+}
