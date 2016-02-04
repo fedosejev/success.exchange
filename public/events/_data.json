@@ -1,5 +1,7 @@
 {
-  "events": [],
+  "events": [
+    "saul-klein-at-london-business-school"
+  ],
   "index": {
     "title": "Events",
     "layout": "_entries/_layout"
