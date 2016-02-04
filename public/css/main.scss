@@ -11,8 +11,15 @@ h1 {
   color: $text-color;
 }
 
-a {
-  color: #59367c;
+a,
+a:visited,
+a:active,
+a:focus {
+  color: #c9302c;
+}
+
+a:hover {
+  color: #9f2623;
 }
 
 @import 'header';
