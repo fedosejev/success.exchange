@@ -4,7 +4,7 @@ It's very inspiring to listen to someone who lives in a bigger world than you do
   <img src="./photos/20160203_191755_small.jpg" width="100%" />
 </a>
 
-It makes you feel safer and more confident that your opporunity to win is waiting for you ahead. You just need to work on it.
+It makes you feel more confident that your opporunity to win is waiting for you ahead. You just need to work on it.
 
 Hard.
 
