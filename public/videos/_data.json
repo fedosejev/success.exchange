@@ -1,5 +1,7 @@
 {
-  "videos": [],
+  "videos": [
+    "gary-vaynerchuk-at-dig-south-interactive-conference-2015"
+  ],
   "index": {
     "title": "Videos",
     "layout": "_entries/_layout"
