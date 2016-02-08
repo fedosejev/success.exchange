@@ -16,13 +16,13 @@ Get comfortable with working in a bombast fashion where a couple of weeks at a t
 
 + Your children probably will not need to know how to drive a car.
 
-+ True happiness comes out of piece. And piece comes out of fundamentally understanding yourself. It comes from looking inside yourself.
++ True happiness comes out of peace. And peace comes out of fundamentally understanding yourself. It comes from looking inside yourself.
 
 + Say yes to everything that happens.
 
 + We’re used to constantly judging things and the act of judging things separates you from that thing.
 
-+ The act of judging something separates you from that thing. Overtime as you judge, judge, judge, you invariably judge people, you judge yourself. You separate yourself from everything and then you end up lonely. That feeling of disconnection, loneliness is what eventually leads to suffering. And then you struggle, you resist the world the way it is. Happiness is the absence of suffering. It comes from piece.
++ The act of judging something separates you from that thing. Overtime as you judge, judge, judge, you invariably judge people, you judge yourself. You separate yourself from everything and then you end up lonely. That feeling of disconnection, loneliness is what eventually leads to suffering. And then you struggle, you resist the world the way it is. Happiness is the absence of suffering. It comes from peace.
 
 + The most important trick to be happy is to realise that happiness is a skill that you develop and a choice that you make. You choose to be happy and then you work at it.
 
