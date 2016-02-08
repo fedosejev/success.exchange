@@ -40,7 +40,7 @@ I found that learnign from Gary is a great investment of my time. Here is what I
 
 + 70% of people in the audience will have Apple Watch in 24 to 36 months for one reason: it’s going to save you time.
 
-  Wearables on your body will have you time. https://youtu.be/Rpi9PBr1hA0?t=33m6s
+  Wearables on your body will save you time. https://youtu.be/Rpi9PBr1hA0?t=33m6s
 
 + 25-35% of people actually get mad when other human being calls them. Because people recognise how valuable their time is: why are you calling me on your time - you don’t know what I am doing - text me and I’ll get back to you when it’s mine time. https://youtu.be/Rpi9PBr1hA0?t=35m41s
 
