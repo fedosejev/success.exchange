@@ -6,7 +6,7 @@ Naval Ravikant shares his thoughts on life in Tim Ferris's <a href="http://fourh
 Build an independent brand around it with your name.
 Make creative work, so that you stay interesting, you can stay ahead of the game.
 Anything that is not creative society can replicate and not pay you full value overtime, so it’s better always solving new problems and doing new things.
-Get comfortable with working in a bombast fashion where a couple of weeks at a time you can have a lot of work and then a couple of weeks at a time you’re on vacation.
+Get comfortable with working in a boom/bust fashion where a couple of weeks at a time you can have a lot of work and then a couple of weeks at a time you’re on vacation.
 
 + The future will be gradual and then it will be sudden. The best way to prepare is just not to give up your independence in a first place.
 
