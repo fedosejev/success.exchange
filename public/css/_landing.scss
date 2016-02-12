@@ -34,13 +34,13 @@
     }
 
     ul {
-      list-style: none;
-      padding: 0;
+      list-style-type: circle;
       margin: 0;
 
       li {
-        line-height: 1.5em;
+        line-height: 36px;
         font-size: 26px;
+        margin: 20px 0;
       }
     }
   }
