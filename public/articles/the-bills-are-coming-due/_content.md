@@ -1,4 +1,4 @@
-[This article](http://www.fool.com/investing/general/2016/02/12/the-bills-are-coming-due.aspx) by Morgan Housel is a good moral support for times when stocks are down. Here is what I've leant:
+<a href="http://www.fool.com/investing/general/2016/02/12/the-bills-are-coming-due.aspx" target="_blank">This article</a> by Morgan Housel is a good moral support for times when stocks are down. Here is what I've leant:
 
 + 13% of people who own stocks say they have little-to-no tolerance for significant market declines. Where significant is 5% to 10% drop.
 
