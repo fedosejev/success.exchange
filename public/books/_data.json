@@ -1,5 +1,7 @@
 {
-  "books": [],
+  "books": [
+    "goals-versus-systems"
+  ],
   "index": {
     "title": "Books",
     "layout": "_entries/_layout"
